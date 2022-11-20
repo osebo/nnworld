@@ -37,7 +37,7 @@ function Microne(parent_el) {
 		transform: 'translate(-50%, -50%)',
 		textAlign: 'center',
 		fontWeight: 'bold',
-		color: 'white',
+		color: 'red',
 	})
 	this.el.appendChild(this.play_button)
 
